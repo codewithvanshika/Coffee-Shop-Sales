@@ -39,7 +39,3 @@ The Coffee Shop Sales Dashboard includes:
 1. Download the `coffee shop sales.xlsx` file.
 2. Open it in Excel.
 3. Navigate to the **Dashboard** sheet to explore the visualizations and insights.
-
-## Screenshots
-
-![Dashboard Screenshot](add-screenshot-link-here)
